@@ -2,6 +2,7 @@
 - 👀 I’m interested in software, and web development
 - 🌱 I’m currently learning CSS, JavaScript, and C++
 - 📫 How to reach me? Via Discord (Xenzeku#8287)
+- 🇵🇭 From the Philippines
 
 
 <!---
